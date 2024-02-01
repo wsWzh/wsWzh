@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ### github使用语言<br/>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wsWzh0&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wsWzh&theme=dark&layout=compact)
 
 <br/>
